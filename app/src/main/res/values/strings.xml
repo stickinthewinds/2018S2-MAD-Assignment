@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment Game</string>
+    <string name="options">Options</string>
+    <string name="restart">Restart</string>
+    <string name="south">South</string>
+    <string name="west">West</string>
+    <string name="east">East</string>
+    <string name="north">North</string>
+    <string name="leave">Leave</string>
+    <string name="market">Market</string>
+    <string name="play">Play</string>
+    <string name="shop">Shop</string>
+    <string name="starred">Starred</string>
+    <string name="smell">Smell-O-Scope</string>
+    <string name="wilderness">Wilderness</string>
+    <string name="inv">Inventory</string>
+    <string name="overview">Overview</string>
+</resources>
